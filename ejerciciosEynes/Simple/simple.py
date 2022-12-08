@@ -21,7 +21,7 @@ print(lista)
 lista_ordenada = ordenar_lista(lista)
 print(lista_ordenada)
 
-print("hello world")
+
 
 
 
